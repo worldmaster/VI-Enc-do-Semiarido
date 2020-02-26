@@ -1,0 +1,117 @@
+/* comando abaixo Navbar */
+#espaco{
+    margin-top: 4%;
+}
+
+.imgCartao{
+    width: 40%;
+}
+
+.tamanhoTexto{
+    width: 40%;
+}
+/* comando abaixo e do Carrosel abaixo do navbar */
+.CarroselAjuste{
+    width: 100%;
+    margin-top: 10%;
+}
+/* comando abaixo imagens insa e campina grande */
+.conheca-camp{
+    background-image: url('../Images/imgsatcamp1.png');
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.imgcohneca{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.imgCampina{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid #FFF;
+}
+
+.texto-cidins{
+    display: flex;
+    justify-content: center;
+    color: #BCA87E;
+}
+
+.paragrafo-cidins{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    color: #FFF;
+    padding: 25px;
+}
+
+.botao-saiba{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+/* comando abaixo e do formulario de Contatos*/
+.contatoBack{
+    background-color: #156FA3;
+}
+
+.botao{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btenviar{
+    width: 200px;
+}
+
+.formContato{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 50%;
+}
+
+.tituloContato{
+    display: flex;
+    justify-content: center;
+    color: #4E966D;
+}
+@media screen and (max-width: 600px){
+    .imgCartao{
+        width: 100%;
+    }
+
+    .tamanhoTexto{
+        width: 100%;
+    }
+
+    .textoImagem{
+        text-decoration: none;
+        font-size: 17px;
+        font-style: italic;
+    }
+
+    .CarroselAjuste {
+        width: 100%;
+        margin-top: 25%;
+    }
+
+    .formContato{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 10px;
+        width: 100%;
+    }
+
+    textarea{
+        resize: both;
+        overflow: auto;
+    }
+}
