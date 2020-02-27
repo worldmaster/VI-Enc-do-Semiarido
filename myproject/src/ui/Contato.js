@@ -16,7 +16,7 @@ const Contato = () => {
                         <input className="form-control" type="email" placeholder="Digite o seu email" />
                     </div>
                     <div className="form-group">
-                        <textarea rows="5" cols="40" placeholder="Digite a sua mensagem" />
+                        <textarea className="form-control" rows="3" placeholder="Digite uma mensagem" />
                     </div>
                 </form>
                 <div className="botao">

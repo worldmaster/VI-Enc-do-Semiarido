@@ -13,7 +13,6 @@
 /* comando a baixo e do Carrosel abaixo do navbar */
 .CarroselAjuste{
     width: 100%;
-    margin-top: 10%;
 }
 /* comando a baixo imagens insa e campina grande */
 .conheca-camp{
@@ -84,13 +83,50 @@
     color: #4E966D;
 }
 
+/* comandos a baixo e para as telas saiba mais Campina Grande e o Insa */ 
+.titulosaiba{
+    color: #B9D270;
+    margin-top: 10%;
+}
+
+.Cartao-infor{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.Titulo-turismo{
+    display: flex;
+    justify-content: center;
+    color: #B9D270;
+}
+
+.Imagem-Turismo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid yellow;
+    
+}
+
+.cont-turismo{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.inform{
+    padding: 10px;
+}
+
+/* comandos a baixo para deixar as telas reponsivas */
 @media screen and (max-width: 600px){
     .imgCartao{
-        width: 100%;
+        width: auto;
     }
 
     .tamanhoTexto{
-        width: 100%;
+        width: auto;
     }
 
     .textoImagem{
@@ -100,7 +136,7 @@
     }
 
     .CarroselAjuste {
-        width: 100%;
+        width: auto;
         margin-top: 25%;
     }
 
@@ -111,8 +147,11 @@
         width: 100%;
     }
 
-    textarea{
-        resize: both;
-        overflow: auto;
+
+    .titulosaiba{
+        color: #B9D270;
+        margin-top: 30%;
     }
+
+
 }
