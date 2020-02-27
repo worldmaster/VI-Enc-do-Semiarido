@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/VI-Enc-do-Semiarido/static/css/main.c0ada8e9.chunk.css",
-    "main.js": "/VI-Enc-do-Semiarido/static/js/main.bfe6feef.chunk.js",
-    "main.js.map": "/VI-Enc-do-Semiarido/static/js/main.bfe6feef.chunk.js.map",
+    "main.js": "/VI-Enc-do-Semiarido/static/js/main.ecc8bfce.chunk.js",
+    "main.js.map": "/VI-Enc-do-Semiarido/static/js/main.ecc8bfce.chunk.js.map",
     "runtime-main.js": "/VI-Enc-do-Semiarido/static/js/runtime-main.99955167.js",
     "runtime-main.js.map": "/VI-Enc-do-Semiarido/static/js/runtime-main.99955167.js.map",
-    "static/js/2.37815ef1.chunk.js": "/VI-Enc-do-Semiarido/static/js/2.37815ef1.chunk.js",
-    "static/js/2.37815ef1.chunk.js.map": "/VI-Enc-do-Semiarido/static/js/2.37815ef1.chunk.js.map",
+    "static/js/2.283034d3.chunk.js": "/VI-Enc-do-Semiarido/static/js/2.283034d3.chunk.js",
+    "static/js/2.283034d3.chunk.js.map": "/VI-Enc-do-Semiarido/static/js/2.283034d3.chunk.js.map",
     "index.html": "/VI-Enc-do-Semiarido/index.html",
-    "precache-manifest.6398801fcc922261dafe0fa6326150a9.js": "/VI-Enc-do-Semiarido/precache-manifest.6398801fcc922261dafe0fa6326150a9.js",
+    "precache-manifest.010c83537e40f03e6f791daf42dec9c6.js": "/VI-Enc-do-Semiarido/precache-manifest.010c83537e40f03e6f791daf42dec9c6.js",
     "service-worker.js": "/VI-Enc-do-Semiarido/service-worker.js",
     "static/css/main.c0ada8e9.chunk.css.map": "/VI-Enc-do-Semiarido/static/css/main.c0ada8e9.chunk.css.map",
-    "static/js/2.37815ef1.chunk.js.LICENSE.txt": "/VI-Enc-do-Semiarido/static/js/2.37815ef1.chunk.js.LICENSE.txt",
+    "static/js/2.283034d3.chunk.js.LICENSE.txt": "/VI-Enc-do-Semiarido/static/js/2.283034d3.chunk.js.LICENSE.txt",
     "static/media/02.jpg": "/VI-Enc-do-Semiarido/static/media/02.a2331882.jpg",
     "static/media/campina.jpg": "/VI-Enc-do-Semiarido/static/media/campina.56f6e96f.jpg",
     "static/media/campina02.jpg": "/VI-Enc-do-Semiarido/static/media/campina02.e82d2f16.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.99955167.js",
-    "static/js/2.37815ef1.chunk.js",
+    "static/js/2.283034d3.chunk.js",
     "static/css/main.c0ada8e9.chunk.css",
-    "static/js/main.bfe6feef.chunk.js"
+    "static/js/main.ecc8bfce.chunk.js"
   ]
 }
