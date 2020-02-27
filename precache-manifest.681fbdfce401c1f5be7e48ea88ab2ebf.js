@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f590683e35fdbbcfb0c7c96cfdcb0326",
+    "revision": "8098624bb1af44cc69a2b7c143458ed6",
     "url": "/VI-Enc-do-Semiarido/index.html"
   },
   {
-    "revision": "178f4d29a9f0f10091d6",
+    "revision": "2ed94b13fa6d9c3c85b8",
     "url": "/VI-Enc-do-Semiarido/static/css/main.c0ada8e9.chunk.css"
   },
   {
-    "revision": "b4b93d66475f6cb0cf0e",
-    "url": "/VI-Enc-do-Semiarido/static/js/2.37815ef1.chunk.js"
+    "revision": "eced929d4ef8014d7561",
+    "url": "/VI-Enc-do-Semiarido/static/js/2.a20c5599.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/VI-Enc-do-Semiarido/static/js/2.37815ef1.chunk.js.LICENSE.txt"
+    "url": "/VI-Enc-do-Semiarido/static/js/2.a20c5599.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "178f4d29a9f0f10091d6",
-    "url": "/VI-Enc-do-Semiarido/static/js/main.4f675db2.chunk.js"
+    "revision": "2ed94b13fa6d9c3c85b8",
+    "url": "/VI-Enc-do-Semiarido/static/js/main.9d2de41f.chunk.js"
   },
   {
     "revision": "ebdd64cc820d3acfbac5",
