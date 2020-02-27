@@ -12,8 +12,8 @@ const NavBar = () => {
 
                 <div className="collapse navbar-collapse" id="navbarContent">
                     <ul className="navbar-nav ml-auto mr-5">
-                        <li className="nav-item active">
-                            <a className="nav-link" href="index.html">Pagina</a>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/">Pagina</a>
                         </li>
 
                         <li className="nav-item">
@@ -25,7 +25,7 @@ const NavBar = () => {
                             Mais informações
                             </a>
                             <div className="dropdown-menu" aria-labelledby="navDropnown">
-                                <a className="dropdown-item" href="index.html">Conheça Campina Grande</a>
+                                <a className="dropdown-item" href="/Saiba_Campina_Grande">Conheça Campina Grande</a>
                                 <a className="dropdown-item" href="index.html">Conheça o INSA</a>
                                 <a className="dropdown-item" href="index.html">Hospedagem</a>
                                 <a className="dropdown-item" href="index.html">Contato</a>

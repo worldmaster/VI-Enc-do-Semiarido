@@ -2,6 +2,7 @@ import React from 'react';
 import pessoas from '../Images/02.jpg';
 import '../styles/index.css'
 
+
 const Card = () => {
     return (
         <div className="container-fluid">

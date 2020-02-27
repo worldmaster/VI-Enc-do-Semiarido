@@ -1,4 +1,4 @@
-/* comando abaixo Navbar */
+/* comando a baixo Navbar */
 #espaco{
     margin-top: 4%;
 }
@@ -10,12 +10,12 @@
 .tamanhoTexto{
     width: 40%;
 }
-/* comando abaixo e do Carrosel abaixo do navbar */
+/* comando a baixo e do Carrosel abaixo do navbar */
 .CarroselAjuste{
     width: 100%;
     margin-top: 10%;
 }
-/* comando abaixo imagens insa e campina grande */
+/* comando a baixo imagens insa e campina grande */
 .conheca-camp{
     background-image: url('../Images/imgsatcamp1.png');
     margin-top: 20px;
@@ -57,7 +57,7 @@
     padding-bottom: 10px;
 }
 
-/* comando abaixo e do formulario de Contatos*/
+/* comando a baixo e do formulario de Contatos*/
 .contatoBack{
     background-color: #156FA3;
 }
@@ -83,6 +83,7 @@
     justify-content: center;
     color: #4E966D;
 }
+
 @media screen and (max-width: 600px){
     .imgCartao{
         width: 100%;
