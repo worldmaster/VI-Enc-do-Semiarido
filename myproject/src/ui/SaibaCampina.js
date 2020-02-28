@@ -1,6 +1,8 @@
 import React from 'react';
 import hotelvillage from '../Images/hotel_village.jpg';
 import gardenhotel from '../Images/garden_hotel.jpg';
+import piramide from '../Images/piramide.jpg';
+import museu from '../Images/Museu.jpg';
 
 
 const SaibaCampina = () => {
@@ -94,6 +96,37 @@ const SaibaCampina = () => {
                     </div>
                 </div>
 
+                <div className="conatainer-fluid">
+
+                    <div id="Carrosel-Hospedagem" className="carousel slide" data-ride="carousel">
+
+                        <div className="carousel-inner">
+
+                            <div className="carousel-item active">
+                                <img className="d-block w-100 imagemturismo" src={piramide} alt="primeiro slide" />
+                                <div className="carousel-caption d-none d-md-block">
+                                    <h5>Piramide do Parque do Povo</h5>
+                                </div>
+                            </div>
+
+                            <div className="carousel-item">
+                                <img className="d-block w-100 imagemturismo" src={museu} alt="segundo slide" />
+                                <div className="carousel-caption d-none d-md-block">
+                                    <h5>Museu historico e geografico de Campina Grande</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <a className="carousel-control-prev" href="#Carrosel-Hospedagem" role="button" data-slide="prev">
+                          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span className="sr-only">Previous</span>
+                        </a>
+                        <a className="carousel-control-next" href="#Carrosel-Hospedagem" role="button" data-slide="next">
+                          <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span className="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+
                 <div className="container-fluid">
                     <h1 className="Titulo-turismo">Hospedagem</h1>
                 </div>
@@ -127,20 +160,20 @@ const SaibaCampina = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Hotel Garden:</h5>
                                 <p>
-                                    <b>Endereço:</b> R. Eng. José Bezerra, 400 - Mirante, Campina Grande - PB, 58407-690 <br/>
-                                        <b>Telefone:</b> (83) 3310-4000<br/>
+                                    <b>Endereço:</b> R. Eng. José Bezerra, 400 - Mirante, Campina Grande - PB, 58407-690 <br />
+                                    <b>Telefone:</b> (83) 3310-4000<br />
                                 </p>
                             </div>
                         </div>
-                            </div>
-
-                        </div>
-
                     </div>
+
+                </div>
+
+            </div>
 
         </React.Fragment>
 
-                );
-            }
-            
+    );
+}
+
 export default SaibaCampina;

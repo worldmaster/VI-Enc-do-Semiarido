@@ -3,7 +3,7 @@ import '../styles/index.css';
 
 const Contato = () => {
     return (
-        <div className="container-fluid contatoBack">
+        <div className="container-fluid contatoBack" id="contato">
             <div className="container formContato">
                 <div className="tituloContato">
                     <h1>Contate-nos</h1>

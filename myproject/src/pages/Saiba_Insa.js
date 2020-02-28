@@ -1,12 +1,16 @@
 import React from 'react';
-import Saiba_mais_INSA from '../ui/SaibaInsa';
+import SaibaInsa from '../ui/SaibaInsa';
+import NavBar from '../ui/NavBar';
+import Contato from '../ui/Contato';
 
-const Saiba_Insa = () => {
+const mais_insa = () => {
     return(
-        <React.Fragment>
-            <Saiba_mais_INSA />
-        </React.Fragment>
+       <React.Fragment>
+          <NavBar />
+          <SaibaInsa />
+          <Contato />
+       </React.Fragment>
     );
 }
 
-export default Saiba_Insa;
+export default mais_insa;

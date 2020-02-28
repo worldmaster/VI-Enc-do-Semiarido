@@ -99,6 +99,7 @@
     display: flex;
     justify-content: center;
     color: #B9D270;
+    margin-top: 10px;
 }
 
 .Imagem-Turismo{
@@ -119,6 +120,49 @@
     padding: 10px;
 }
 
+.imagemturismo{
+    width: 300px;
+    height: 500px;
+}
+
+/* comandos abaixo da tela de incrições e proframas */
+#espacamento{
+    padding-top: 8%;   
+    
+}
+.seta-baixo{
+    font-size:30px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.seta-baixo-copy{
+    font-size:30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.texto-colorido{
+    color: #A78633;
+}
+.tamanho-nome-programacao{
+    font-size: 46px;
+}
+.tamanho-programacao{
+    width: 40%;
+}
+.tamanho-programacao-copy{
+    width: 40%;
+}
+
+.tamanho-texto{
+    max-width: 100%;
+}
+.texto-data{
+    font-size: 25px;
+}
+.bg-semiarido{
+    background-color: #febc4a;
+}
 /* comandos a baixo para deixar as telas reponsivas */
 @media screen and (max-width: 600px){
     .imgCartao{
@@ -137,7 +181,7 @@
 
     .CarroselAjuste {
         width: auto;
-        margin-top: 25%;
+        margin-top: 45%;
     }
 
     .formContato{
@@ -153,5 +197,19 @@
         margin-top: 30%;
     }
 
+    #espacamento{
+        padding-top: 20%; 
+               
+    }
+
+    .tamanho-programacao{
+        width: auto;
+    }
+    .tamanho-programacao-copy{
+        width: 90%;
+    }
+    .tamanho-texto{
+        width:auto;        
+    }
 
 }

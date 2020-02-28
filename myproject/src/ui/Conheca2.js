@@ -26,7 +26,7 @@ const Conhecainsa = () => {
                 </div>
 
                 <div className="botao-saiba">
-                    <a className="btn btn-success btn-lg active" href="Saibamais.html" role="button" aria-pressed="true">
+                    <a className="btn btn-success btn-lg active" href="/VI-Enc-do-Semiarido/Saiba_Insa" role="button" aria-pressed="true">
                         Saiba mais
                     </a>
                 </div>
