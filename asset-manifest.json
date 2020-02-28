@@ -1,29 +1,35 @@
 {
   "files": {
-    "main.css": "/VI-Enc-do-Semiarido/static/css/main.c0ada8e9.chunk.css",
-    "main.js": "/VI-Enc-do-Semiarido/static/js/main.9d2de41f.chunk.js",
-    "main.js.map": "/VI-Enc-do-Semiarido/static/js/main.9d2de41f.chunk.js.map",
-    "runtime-main.js": "/VI-Enc-do-Semiarido/static/js/runtime-main.99955167.js",
-    "runtime-main.js.map": "/VI-Enc-do-Semiarido/static/js/runtime-main.99955167.js.map",
-    "static/js/2.a20c5599.chunk.js": "/VI-Enc-do-Semiarido/static/js/2.a20c5599.chunk.js",
-    "static/js/2.a20c5599.chunk.js.map": "/VI-Enc-do-Semiarido/static/js/2.a20c5599.chunk.js.map",
+    "main.css": "/VI-Enc-do-Semiarido/static/css/main.d48f7bca.chunk.css",
+    "main.js": "/VI-Enc-do-Semiarido/static/js/main.1406d6f2.chunk.js",
+    "main.js.map": "/VI-Enc-do-Semiarido/static/js/main.1406d6f2.chunk.js.map",
+    "runtime-main.js": "/VI-Enc-do-Semiarido/static/js/runtime-main.c2645277.js",
+    "runtime-main.js.map": "/VI-Enc-do-Semiarido/static/js/runtime-main.c2645277.js.map",
+    "static/js/2.e3bd30eb.chunk.js": "/VI-Enc-do-Semiarido/static/js/2.e3bd30eb.chunk.js",
+    "static/js/2.e3bd30eb.chunk.js.map": "/VI-Enc-do-Semiarido/static/js/2.e3bd30eb.chunk.js.map",
     "index.html": "/VI-Enc-do-Semiarido/index.html",
-    "precache-manifest.681fbdfce401c1f5be7e48ea88ab2ebf.js": "/VI-Enc-do-Semiarido/precache-manifest.681fbdfce401c1f5be7e48ea88ab2ebf.js",
+    "precache-manifest.dbad7a0a46102a4ec19565f3c874d453.js": "/VI-Enc-do-Semiarido/precache-manifest.dbad7a0a46102a4ec19565f3c874d453.js",
     "service-worker.js": "/VI-Enc-do-Semiarido/service-worker.js",
-    "static/css/main.c0ada8e9.chunk.css.map": "/VI-Enc-do-Semiarido/static/css/main.c0ada8e9.chunk.css.map",
-    "static/js/2.a20c5599.chunk.js.LICENSE.txt": "/VI-Enc-do-Semiarido/static/js/2.a20c5599.chunk.js.LICENSE.txt",
+    "static/css/main.d48f7bca.chunk.css.map": "/VI-Enc-do-Semiarido/static/css/main.d48f7bca.chunk.css.map",
+    "static/js/2.e3bd30eb.chunk.js.LICENSE.txt": "/VI-Enc-do-Semiarido/static/js/2.e3bd30eb.chunk.js.LICENSE.txt",
     "static/media/02.jpg": "/VI-Enc-do-Semiarido/static/media/02.a2331882.jpg",
+    "static/media/Museu.jpg": "/VI-Enc-do-Semiarido/static/media/Museu.0503307d.jpg",
     "static/media/campina.jpg": "/VI-Enc-do-Semiarido/static/media/campina.56f6e96f.jpg",
     "static/media/campina02.jpg": "/VI-Enc-do-Semiarido/static/media/campina02.e82d2f16.jpg",
     "static/media/cid1.jpg": "/VI-Enc-do-Semiarido/static/media/cid1.8176eee2.jpg",
+    "static/media/garden_hotel.jpg": "/VI-Enc-do-Semiarido/static/media/garden_hotel.ffedf5f8.jpg",
+    "static/media/hotel_village.jpg": "/VI-Enc-do-Semiarido/static/media/hotel_village.4838e724.jpg",
     "static/media/index.css": "/VI-Enc-do-Semiarido/static/media/imgsatcamp1.8f2616c2.png",
     "static/media/ins1.png": "/VI-Enc-do-Semiarido/static/media/ins1.21c3e8f7.png",
-    "static/media/logo.png": "/VI-Enc-do-Semiarido/static/media/logo.cc12b2db.png"
+    "static/media/logo.png": "/VI-Enc-do-Semiarido/static/media/logo.cc12b2db.png",
+    "static/media/parceiros.png": "/VI-Enc-do-Semiarido/static/media/parceiros.fb87cc64.png",
+    "static/media/piramide.jpg": "/VI-Enc-do-Semiarido/static/media/piramide.eda38eea.jpg",
+    "static/media/realização.png": "/VI-Enc-do-Semiarido/static/media/realização.517b4a71.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.99955167.js",
-    "static/js/2.a20c5599.chunk.js",
-    "static/css/main.c0ada8e9.chunk.css",
-    "static/js/main.9d2de41f.chunk.js"
+    "static/js/runtime-main.c2645277.js",
+    "static/js/2.e3bd30eb.chunk.js",
+    "static/css/main.d48f7bca.chunk.css",
+    "static/js/main.1406d6f2.chunk.js"
   ]
 }
