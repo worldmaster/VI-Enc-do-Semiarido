@@ -5,12 +5,12 @@ const evento = () => {
     return (
         <React.Fragment>
             <div className="container ">
-                <div className="container-fluid d-flex justify-content-center mb-4" id="espacamento">
+                <div className="container-fluid d-flex justify-content-center mb-4 text-center" id="espacamento">
                     <div className="flex-fill">
                         <h5 className="text-success tamanho-nome-programacao font-weight-bold">PROGRAMAÇÃO</h5>
                     </div>
                 </div>
-                <div className="container-fluid d-flex justify-content-center mb-5" >
+                <div className="container-fluid d-flex justify-content-center mb-5 text-center" >
                     <div className="flex-fill">
                         <h5 className="text-success  ont-weight-bold">Clique nas guias para expandir e saber mais sobre a Programação de determinado dia.</h5>
                     </div>
@@ -404,7 +404,22 @@ const evento = () => {
                                                             aria-pressed="true">Inscrições</a>
                                                     </div>
                                                 </div>
-
+                                                <div className="card-header">
+                                                    <a className="card-link" data-toggle="collapse" href="#collapse-interno33">
+                                                        ENCERRAMENTO - Visita ao Museu do Cangaço;
+                                                        Atividade Cultural com Repentista sobre Ciência e Educação;
+                                                        Observação Astronômica;
+                                                        Premiação de Trabalhos;
+                                                        Fechamento com o Autêntico Forró Nordestino com ASSISÃO.
+                                        </a>
+                                                </div>
+                                                <div id="collapse-interno33" className="collapse" data-parent="#accordion">
+                                                    <div className="card-body text-center">
+                                                        <b>Horário:</b> 18:00hs<br />
+                                                        <b>Responsáveis:</b> Danielli Matias de Macedo Dantas e Antonio Carlos
+                                                        Miranda (UFRPE)
+                                        </div>
+                                                </div>
 
                                             </div>
                                         </div>

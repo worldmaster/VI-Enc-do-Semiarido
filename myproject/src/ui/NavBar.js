@@ -17,7 +17,7 @@ const NavBar = () => {
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="/VI-Enc-do-Semiarido/Programação">Programações e incrições</a>
+                            <a className="nav-link" href="/VI-Enc-do-Semiarido/Programacao">Programações e incrições</a>
                         </li>
 
                         <li className="nav-item dropdown">
@@ -25,8 +25,8 @@ const NavBar = () => {
                             Mais informações
                             </a>
                             <div className="dropdown-menu" aria-labelledby="navDropnown">
-                                <a className="dropdown-item" href="/VI-Enc-do-Semiarido/Saiba_Campina_Grande">Conheça Campina Grande</a>
-                                <a className="dropdown-item" href="/VI-Enc-do-Semiarido/Saiba_Insa">Conheça o INSA</a>
+                                <a className="dropdown-item" href="/VI-Enc-do-Semiarido/saiba_campina_grande">Conheça Campina Grande</a>
+                                <a className="dropdown-item" href="/VI-Enc-do-Semiarido/saiba_insa">Conheça o INSA</a>
                                 <a className="dropdown-item" href="index.html">Hospedagem</a>
                                 <a className="dropdown-item" href="#contato">Contato</a>
                             </div>

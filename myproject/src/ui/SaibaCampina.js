@@ -2,7 +2,7 @@ import React from 'react';
 import hotelvillage from '../Images/hotel_village.jpg';
 import gardenhotel from '../Images/garden_hotel.jpg';
 import piramide from '../Images/piramide.jpg';
-import museu from '../Images/Museu.jpg';
+import museu from '../Images/Museu.jpg'
 
 
 const SaibaCampina = () => {
@@ -152,7 +152,7 @@ const SaibaCampina = () => {
 
                 <div className="container-fluid cont-turismo">
                     <div>
-                        <img className="Imagem-Turismo" src={gardenhotel} alt="hotel vilage" />
+                        <img className="Imagem-Turismo" src={{gardenhotel}} alt="hotel vilage" />
                     </div>
 
                     <div className="inform">
