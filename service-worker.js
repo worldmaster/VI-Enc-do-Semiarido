@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VI-Enc-do-Semiarido/precache-manifest.910324700b36f237ad752099f42336cd.js"
+  "/VI-Enc-do-Semiarido/precache-manifest.8283e795f236ff145619a4d31482a74e.js"
 );
 
 self.addEventListener('message', (event) => {
