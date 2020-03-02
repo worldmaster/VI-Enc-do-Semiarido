@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f154f35fcba8b5e30b61d88ff1aa6e6",
+    "revision": "d92d35b5a3c32f8e2d696dcac91da407",
     "url": "/VI-Enc-do-Semiarido/index.html"
   },
   {
-    "revision": "6d84a3009df64195dcff",
+    "revision": "73b8f8ac3f46a6b573fd",
     "url": "/VI-Enc-do-Semiarido/static/css/main.90893f8b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VI-Enc-do-Semiarido/static/js/2.71c851fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d84a3009df64195dcff",
-    "url": "/VI-Enc-do-Semiarido/static/js/main.2d72228a.chunk.js"
+    "revision": "73b8f8ac3f46a6b573fd",
+    "url": "/VI-Enc-do-Semiarido/static/js/main.6751432d.chunk.js"
   },
   {
     "revision": "b22e4b505e5302d0e936",
@@ -29,7 +29,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0503307d598c6d9f91f20e119a908d1d",
-    "url": "/VI-Enc-do-Semiarido/static/media/Museu.0503307d.jpg"
+    "url": "/VI-Enc-do-Semiarido/static/media/Museu.0503307d.png"
   },
   {
     "revision": "56f6e96fa70cb6a4feae2227a515b0b7",
@@ -45,11 +45,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ffedf5f8492f6a532974683f9dcb2236",
-    "url": "/VI-Enc-do-Semiarido/static/media/garden_hotel.ffedf5f8.jpg"
+    "url": "/VI-Enc-do-Semiarido/static/media/garden_hotel.ffedf5f8.png"
   },
   {
     "revision": "4838e724e0aef9860b6a752fec23e543",
-    "url": "/VI-Enc-do-Semiarido/static/media/hotel_village.4838e724.jpg"
+    "url": "/VI-Enc-do-Semiarido/static/media/hotel_village.4838e724.png"
   },
   {
     "revision": "8f2616c2a2bb904c3beb420fb8d37857",
@@ -69,7 +69,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "eda38eea9cc4f492c107e7269d8d7727",
-    "url": "/VI-Enc-do-Semiarido/static/media/piramide.eda38eea.jpg"
+    "url": "/VI-Enc-do-Semiarido/static/media/piramide.eda38eea.png"
   },
   {
     "revision": "517b4a71a0f5848f2cb559f764d34204",

@@ -1,35 +1,35 @@
 {
   "files": {
     "main.css": "/VI-Enc-do-Semiarido/static/css/main.90893f8b.chunk.css",
-    "main.js": "/VI-Enc-do-Semiarido/static/js/main.2d72228a.chunk.js",
-    "main.js.map": "/VI-Enc-do-Semiarido/static/js/main.2d72228a.chunk.js.map",
+    "main.js": "/VI-Enc-do-Semiarido/static/js/main.6751432d.chunk.js",
+    "main.js.map": "/VI-Enc-do-Semiarido/static/js/main.6751432d.chunk.js.map",
     "runtime-main.js": "/VI-Enc-do-Semiarido/static/js/runtime-main.c2645277.js",
     "runtime-main.js.map": "/VI-Enc-do-Semiarido/static/js/runtime-main.c2645277.js.map",
     "static/js/2.71c851fc.chunk.js": "/VI-Enc-do-Semiarido/static/js/2.71c851fc.chunk.js",
     "static/js/2.71c851fc.chunk.js.map": "/VI-Enc-do-Semiarido/static/js/2.71c851fc.chunk.js.map",
     "index.html": "/VI-Enc-do-Semiarido/index.html",
-    "precache-manifest.b63ad846add847f2316f64154d9008a9.js": "/VI-Enc-do-Semiarido/precache-manifest.b63ad846add847f2316f64154d9008a9.js",
+    "precache-manifest.e53be739928f5296cb2fc4bfec3af631.js": "/VI-Enc-do-Semiarido/precache-manifest.e53be739928f5296cb2fc4bfec3af631.js",
     "service-worker.js": "/VI-Enc-do-Semiarido/service-worker.js",
     "static/css/main.90893f8b.chunk.css.map": "/VI-Enc-do-Semiarido/static/css/main.90893f8b.chunk.css.map",
     "static/js/2.71c851fc.chunk.js.LICENSE.txt": "/VI-Enc-do-Semiarido/static/js/2.71c851fc.chunk.js.LICENSE.txt",
     "static/media/02.jpg": "/VI-Enc-do-Semiarido/static/media/02.a2331882.jpg",
-    "static/media/Museu.jpg": "/VI-Enc-do-Semiarido/static/media/Museu.0503307d.jpg",
+    "static/media/Museu.png": "/VI-Enc-do-Semiarido/static/media/Museu.0503307d.png",
     "static/media/campina.jpg": "/VI-Enc-do-Semiarido/static/media/campina.56f6e96f.jpg",
     "static/media/campina02.jpg": "/VI-Enc-do-Semiarido/static/media/campina02.e82d2f16.jpg",
     "static/media/cid1.jpg": "/VI-Enc-do-Semiarido/static/media/cid1.8176eee2.jpg",
-    "static/media/garden_hotel.jpg": "/VI-Enc-do-Semiarido/static/media/garden_hotel.ffedf5f8.jpg",
-    "static/media/hotel_village.jpg": "/VI-Enc-do-Semiarido/static/media/hotel_village.4838e724.jpg",
+    "static/media/garden_hotel.png": "/VI-Enc-do-Semiarido/static/media/garden_hotel.ffedf5f8.png",
+    "static/media/hotel_village.png": "/VI-Enc-do-Semiarido/static/media/hotel_village.4838e724.png",
     "static/media/index.css": "/VI-Enc-do-Semiarido/static/media/imgsatcamp1.8f2616c2.png",
     "static/media/ins1.png": "/VI-Enc-do-Semiarido/static/media/ins1.21c3e8f7.png",
     "static/media/logo.png": "/VI-Enc-do-Semiarido/static/media/logo.cc12b2db.png",
     "static/media/parceiros.png": "/VI-Enc-do-Semiarido/static/media/parceiros.fb87cc64.png",
-    "static/media/piramide.jpg": "/VI-Enc-do-Semiarido/static/media/piramide.eda38eea.jpg",
+    "static/media/piramide.png": "/VI-Enc-do-Semiarido/static/media/piramide.eda38eea.png",
     "static/media/realização.png": "/VI-Enc-do-Semiarido/static/media/realização.517b4a71.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c2645277.js",
     "static/js/2.71c851fc.chunk.js",
     "static/css/main.90893f8b.chunk.css",
-    "static/js/main.2d72228a.chunk.js"
+    "static/js/main.6751432d.chunk.js"
   ]
 }
